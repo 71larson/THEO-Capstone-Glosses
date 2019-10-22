@@ -1,4 +1,4 @@
-# # Sentences 2.18.1-3, 7
+## Sentences 2.18.1-3, 7
 
 ### Chapter 1
 
